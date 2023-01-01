@@ -1,4 +1,5 @@
 # Hangman
+DATE: 31/12/2022
 ## Description
 This is just the standard hangman game. Currently, there is no UI. The possible words are extracted from the './words.json' file, and have been copied over from
 another developer.
